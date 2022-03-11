@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/first-react-app/static/css/main.cbdc8b09.css",
+    "main.js": "/first-react-app/static/js/main.4f4a70b8.js",
+    "static/js/787.22ccd474.chunk.js": "/first-react-app/static/js/787.22ccd474.chunk.js",
+    "static/media/video.png": "/first-react-app/static/media/video.67484da20a2c17dd1dd7.png",
+    "static/media/about.png": "/first-react-app/static/media/about.1c48cad5d357e2407c23.png",
+    "static/media/menu.png": "/first-react-app/static/media/menu.5c745ec23e27f1484861.png",
+    "static/media/contact.png": "/first-react-app/static/media/contact.a6a5553cd923cd99e511.png",
+    "static/media/about1.png": "/first-react-app/static/media/about1.506bbcf85e43e1a5e788.png",
+    "static/media/presidentBurger2.png": "/first-react-app/static/media/presidentBurger2.b817fade3afddcbf0667.png",
+    "static/media/BurgerMain2.png": "/first-react-app/static/media/BurgerMain2.53a7ea94198a9e458824.png",
+    "static/media/presidentBurger1.png": "/first-react-app/static/media/presidentBurger1.fe79f3e22b9eada46a6d.png",
+    "static/media/about2.png": "/first-react-app/static/media/about2.4cd6be76f75f0e4b448e.png",
+    "static/media/instagram.png": "/first-react-app/static/media/instagram.8e408da00539cdef4629.png",
+    "static/media/burgerlogo.png": "/first-react-app/static/media/burgerlogo.b20c9526da44f0231403.png",
+    "static/media/drink.png": "/first-react-app/static/media/drink.0721f5d42f1caef3620b.png",
+    "static/media/1.png": "/first-react-app/static/media/1.f88b9309e9294f88f755.png",
+    "static/media/BurgerMain1.jpg": "/first-react-app/static/media/BurgerMain1.40b7a95e9bbc030c1a43.jpg",
+    "static/media/telegram (1).png": "/first-react-app/static/media/telegram (1).e8540dc14b381676ad9c.png",
+    "static/media/twitter (1).png": "/first-react-app/static/media/twitter (1).802534bf2678c3afb41d.png",
+    "static/media/likedStar.png": "/first-react-app/static/media/likedStar.3b0993f9a4f7c32912e5.png",
+    "static/media/house.png": "/first-react-app/static/media/house.20a89cae33df563ea0ae.png",
+    "static/media/star.png": "/first-react-app/static/media/star.190d870d386afd29523a.png",
+    "static/media/phone.png": "/first-react-app/static/media/phone.d35848942c955a6232b3.png",
+    "static/media/play-button.png": "/first-react-app/static/media/play-button.1356601fff5921c0bf1c.png",
+    "index.html": "/first-react-app/index.html",
+    "main.cbdc8b09.css.map": "/first-react-app/static/css/main.cbdc8b09.css.map",
+    "main.4f4a70b8.js.map": "/first-react-app/static/js/main.4f4a70b8.js.map",
+    "787.22ccd474.chunk.js.map": "/first-react-app/static/js/787.22ccd474.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbdc8b09.css",
+    "static/js/main.4f4a70b8.js"
+  ]
+}
